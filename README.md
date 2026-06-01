@@ -1,4 +1,4 @@
-# GAME_PROGRAM-EX--5
+# EX:5 Making Player to collect the ammo and increase the bullet spawn count.
 ## NAME : ARUL KUMARAN S A
 ## REG NO : 212224040030
 ##  Aim
